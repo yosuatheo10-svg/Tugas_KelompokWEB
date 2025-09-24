@@ -10,7 +10,7 @@
 <br> 
 
 <h2> Pendahuluan</h2>
-<p>Pendahuluan dari website Planet Gadget Sentosa jaya Undiknas adalah sebagai sarana digital yang dirancang untuk memperkenalkan toko kepada masyarakat luas dengan menampilkan beberapa produk gadget unggulan baru, website ini dibuat dengan sederhana namun informatif agar pengunjung dapat dengan mudah mengenal identitas toko, melihat produk-produk pilihan yang di tawarkan, serta memperoleh informasi kontak dan alamat toko secara praktis sehingga menciptakan pengalaman awal yang baik dalam menjelajahi layanan dan produk yang tersedia<p> 
+<p>Pendahuluan dari website Planet Gadget Sentosa jaya Undiknas adalah sebagai sarana digital yang dirancang untuk memperkenalkan toko kepada masyarakat luas dengan menampilkan beberapa produk gadget unggulan baru, website ini dibuat dengan sederhana namun informatif agar pengunjung dapat dengan mudah mengenal identitas toko, melihat produk-produk pilihan yang di tawarkan, serta memperoleh informasi kontak dan alamat toko secara praktis sehingga menciptakan pengalaman awal yang baik dalam menjelajahi layanan dan produk yang tersedia, Selain itu, website ini juga diharapkan mampu menjadi media promosi yang efektif dalam meningkatkan daya tarik konsumen, membangun citra profesional toko, serta memperluas jangkauan pasar secara online. Dengan adanya website ini, pelanggan dapat mengakses informasi terbaru mengenai promo, katalog produk, maupun layanan yang disediakan tanpa harus datang langsung ke toko. Dengan demikian, website Planet Gadget Sentosa Jaya Undiknas tidak hanya berfungsi sebagai pusat informasi, tetapi juga sebagai jembatan komunikasi antara toko dan pelanggan untuk menciptakan hubungan yang lebih dekat dan berkesinambungan.<p> 
 <br> 
 
 <h2> Pembahasan </h2>
